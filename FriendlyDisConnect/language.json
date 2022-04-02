@@ -1,0 +1,13 @@
+{
+    "disconnected":"正在从服务器断开连接",
+	"editionMismatchEduToVanilla":"服务器没有运行 Minecraft: Education Edition。连接失败。",
+	"editionMismatchVanillaToEdu":"服务器正在运行不兼容版本的《我的世界》。连接失败。",
+	"invalidSkin":"皮肤无效！",
+	"multiplayerDisabled":"世界已设置为单人游戏模式。",
+	"notAllowed":"§c§l你没有白名单\n§e(请前往QQ群申请白名单)",
+	"notAuthenticated":"您必须通过 Microsoft 服务身份验证。",
+	"outdatedClient":"无法连接：过期的客户端！",
+	"outdatedServer":"无法连接：过期的服务器！",
+	"serverIdConflict":"无法加入世界。您所注册的账户目前正在另一个设备上的这个世界中玩游戏。",
+	"invalidTenant":"无法连接。您无法进入这个世界。"
+}
