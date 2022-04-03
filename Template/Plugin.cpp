@@ -75,7 +75,7 @@ THook(
 	string a4,
 	int a5) {
 	if (a4 == "disconnectionScreen.disconnected") {
-		return original(_this, a2, a3, title, a5);
+		return original(_this, a2, a3, a4, a5);
 	}
 
 	//客户端协议号
