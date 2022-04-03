@@ -1,5 +1,4 @@
 {
-    "disconnected":"正在从服务器断开连接",
 	"editionMismatchEduToVanilla":"服务器没有运行 Minecraft: Education Edition。连接失败。",
 	"editionMismatchVanillaToEdu":"服务器正在运行不兼容版本的《我的世界》。连接失败。",
 	"invalidSkin":"皮肤无效！",

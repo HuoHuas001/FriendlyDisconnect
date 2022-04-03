@@ -74,6 +74,9 @@ THook(
 	int a3,
 	string a4,
 	int a5) {
+	if (a4 == "disconnectionScreen.disconnected") {
+		return original(_this, a2, a3, title, a5);
+	}
 
 	//客户端协议号
 	int clientProtocol = *((_DWORD*)a2 + 12);
